@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 250px;
+}
+
+div{
+    display: flex;
+    gap: 30px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+
+    background-color: rgb(188, 238, 255)
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
